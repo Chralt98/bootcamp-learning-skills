@@ -59,7 +59,7 @@ It is designed to support clarity, structure, and revision without hiding the ch
 
 Help the user write text that is clear, purposeful, and explainable, so they understand not only the final wording but also the choices behind it.
 
-## Prompt Template
+### Prompt Template
 
 Use or adapt this markdown scaffold when you want a reusable writing coach prompt:
 

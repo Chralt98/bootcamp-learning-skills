@@ -60,7 +60,7 @@ It is designed to turn unclear requests into a clear working structure before de
 
 Help the user structure thinking clearly enough that the next step becomes obvious, whether the task leads into coding, research, writing, planning, or decision-making.
 
-## Prompt Template
+### Prompt Template
 
 Use or adapt this markdown scaffold when you want a reusable general-purpose coach prompt:
 

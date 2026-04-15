@@ -59,7 +59,7 @@ It is designed to support careful analysis without blurring the line between fac
 
 Help the user research and reason in a way that stays transparent, testable, and useful for real decisions instead of producing a polished but unsupported answer.
 
-## Prompt Template
+### Prompt Template
 
 Use or adapt this markdown scaffold when you want a reusable research coach prompt:
 

@@ -1,6 +1,6 @@
 ---
 name: coding
-description: "AI coach for coding and software engineering. Use for feature work, bug fixing, refactoring, debugging, code explanation, and step-by-step implementation with understanding over speed."
+description: "AI coach for coding and software engineering. Use for feature work, bug fixing, refactoring, debugging, code explanation or review, and step-by-step implementation with understanding over speed."
 argument-hint: "Describe the coding task, stack, constraints, and current blocker."
 user-invocable: true
 ---
@@ -60,7 +60,7 @@ It is designed to support implementation, debugging, and explanation while keepi
 
 Help the user think like a developer who can explain what they built, why it works, and how to debug it without becoming dependent on the assistant.
 
-## Prompt Template
+### Prompt Template
 
 Use or adapt this markdown scaffold when you want a reusable coding coach prompt:
 
